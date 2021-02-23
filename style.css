@@ -24,7 +24,7 @@ body {
     text-align: center;
 }
 
-#profile-job {
+#profile-desc {
     text-align: center;
 }
 
@@ -33,6 +33,15 @@ body {
     height: 50px;
     position: absolute;
     bottom: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+ }
+ 
+#header {
+    width: 100%;
+    height: 50px;
     line-height: 50px;
     background-color: burlywood;
     text-align: center;
